@@ -1,0 +1,227 @@
+5.png
+size:2044,1892
+filter:Linear,Linear
+pma:true
+scale:0.6
+glow
+bounds:1311,1272,281,280
+offsets:1,0,283,291
+ogon_bel/1
+bounds:2,501,497,921
+offsets:440,241,1322,1500
+rotate:90
+ogon_bel/10
+bounds:925,255,497,921
+offsets:440,241,1322,1500
+rotate:90
+ogon_bel/11
+bounds:2,2,497,921
+offsets:440,241,1322,1500
+rotate:90
+аи/Layer 10
+bounds:1564,1838,50,60
+rotate:90
+аи/Layer 11
+bounds:1183,1839,49,90
+rotate:90
+аи/Layer 12
+bounds:391,1854,34,126
+rotate:90
+аи/Layer 13
+bounds:835,1848,71,40
+аи/Layer 14
+bounds:134,1863,65,25
+аи/Layer 15
+bounds:201,1857,52,31
+аи/Layer 16
+bounds:43,1872,46,16
+offsets:0,0,46,29
+аи/Layer 161
+bounds:908,1848,70,40
+аи/Layer 17
+bounds:532,1616,152,239
+rotate:90
+аи/Layer 19
+bounds:1258,1749,88,104
+rotate:90
+аи/Layer 20
+bounds:1041,1844,77,44
+аи/Layer 23
+bounds:1626,1836,65,52
+аи/Layer 4
+bounds:1902,1680,149,138
+rotate:90
+аи/Layer 5
+bounds:2,1811,59,67
+rotate:90
+аи/Layer 6
+bounds:112,1868,20,20
+аи/Layer 7
+bounds:352,1790,62,68
+rotate:90
+аи/Layer 8
+bounds:1275,1839,49,53
+rotate:90
+аи/Layer 9
+bounds:91,1869,19,19
+зе/From selection
+bounds:188,1652,161,142
+зе/Layer 1
+bounds:1730,1473,205,212
+rotate:90
+зе/Layer 10
+bounds:1310,754,406,428
+rotate:90
+зе/Layer 11
+bounds:940,1763,128,79
+зе/Layer 12
+bounds:1000,1330,309,268
+зе/Layer 13
+bounds:1481,1740,96,109
+offsets:211,0,307,305
+rotate:90
+зе/Layer 14
+bounds:2,1880,12,8
+зе/Layer 15
+bounds:27,1878,14,10
+зе/Layer 16
+bounds:2,1680,184,114
+зе/Layer 18
+bounds:351,1638,142,179
+rotate:90
+зе/Layer 20
+bounds:1592,1734,170,100
+зе/Layer 21
+bounds:1364,1742,115,95
+зе/Layer 22
+bounds:251,1365,277,271
+зе/Layer 23
+bounds:815,1768,123,78
+зе/Layer 25
+bounds:1070,1753,84,186
+rotate:90
+зе/Layer 26
+bounds:166,1796,57,184
+rotate:90
+зе/Layer 27
+bounds:2,1433,217,247
+rotate:90
+зе/Layer 28
+bounds:617,1852,36,216
+rotate:90
+зе/Layer 29
+bounds:422,1782,68,206
+rotate:90
+зе/Layer 3
+bounds:2,1054,309,518
+rotate:90
+зе/Layer 4
+bounds:630,1780,95,70
+зе/Layer 5
+bounds:1330,1839,97,49
+зе/Layer 6
+bounds:1970,1831,57,65
+rotate:90
+зе/Layer 7
+bounds:1120,1842,61,46
+зе/Layer 8
+bounds:1693,1836,65,52
+зе/Layer 9
+bounds:980,1845,59,43
+кр/Layer 1
+bounds:1335,1561,183,177
+кр/Layer 10
+bounds:1594,1162,339,309
+кр/Layer 11
+bounds:519,1853,35,96
+offsets:0,27,43,123
+rotate:90
+кр/Layer 12
+bounds:1891,1834,54,77
+rotate:90
+кр/Layer 13
+bounds:773,1600,147,560
+rotate:90
+кр/Layer 15
+bounds:727,1770,86,80
+кр/Layer 16
+bounds:255,1855,33,134
+rotate:90
+кр/Layer 17
+bounds:1429,1839,49,133
+rotate:90
+кр/Layer 18
+bounds:1520,1554,178,208
+rotate:90
+кр/Layer 3
+bounds:1764,1727,105,136
+rotate:90
+кр/Layer 4
+bounds:530,1344,254,468
+rotate:90
+кр/Layer 5
+bounds:71,1805,93,56
+кр/Layer 6
+bounds:1760,1836,63,52
+кр/Layer 7
+bounds:1825,1835,64,53
+кр/Layer 8
+bounds:16,1879,9,9
+кр/Layer 9
+bounds:522,1000,786,328
+
+5.2.png
+size:1848,2000
+filter:Linear,Linear
+pma:true
+scale:0.6
+ogon_bel/12
+bounds:2,1499,497,921
+offsets:440,241,1322,1500
+rotate:90
+ogon_bel/13
+bounds:925,1499,497,921
+offsets:440,241,1322,1500
+rotate:90
+ogon_bel/2
+bounds:2,1000,497,921
+offsets:440,241,1322,1500
+rotate:90
+ogon_bel/3
+bounds:925,1000,497,921
+offsets:440,241,1322,1500
+rotate:90
+ogon_bel/4
+bounds:2,501,497,921
+offsets:440,241,1322,1500
+rotate:90
+ogon_bel/5
+bounds:925,501,497,921
+offsets:440,241,1322,1500
+rotate:90
+ogon_bel/6
+bounds:2,2,497,921
+offsets:440,241,1322,1500
+rotate:90
+ogon_bel/7
+bounds:925,2,497,921
+offsets:440,241,1322,1500
+rotate:90
+
+5.3.png
+size:1720,1244
+filter:Linear,Linear
+pma:true
+scale:0.6
+ogon_bel/8
+bounds:794,744,497,921
+offsets:440,241,1322,1500
+rotate:90
+ogon_bel/9
+bounds:2,2,497,921
+offsets:440,241,1322,1500
+rotate:90
+аи/Layer 18
+bounds:2,501,790,740
+зе/Layer 19
+bounds:925,159,514,583

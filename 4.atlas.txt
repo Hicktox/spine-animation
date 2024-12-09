@@ -1,0 +1,121 @@
+4.png
+size:2016,1744
+filter:Linear,Linear
+pma:true
+scale:0.6
+11123
+bounds:102,1640,99,542
+rotate:90
+43ек
+bounds:646,1640,99,542
+rotate:90
+Layer 10
+bounds:1169,1499,193,139
+Layer 16
+bounds:2,1362,152,361
+rotate:90
+Layer 30
+bounds:2,692,533,577
+rotate:90
+Layer 31
+bounds:1734,1636,103,117
+rotate:90
+Layer 32
+bounds:1364,1499,173,139
+Layer 33
+bounds:119,1525,219,113
+offsets:0,5,226,118
+Layer 34
+bounds:591,1509,442,129
+Layer 38
+bounds:2,1693,46,46
+Layer 9
+bounds:1694,1439,292,195
+ogon_bel/1
+bounds:1073,960,477,938
+offsets:423,234,1322,1500
+rotate:90
+ogon_bel/10
+bounds:581,481,477,938
+offsets:423,234,1322,1500
+rotate:90
+ogon_bel/11
+bounds:1521,20,477,938
+offsets:423,234,1322,1500
+ogon_bel/12
+bounds:2,2,477,938
+offsets:423,234,1322,1500
+rotate:90
+Прямоугольник 1
+bounds:1190,1640,99,542
+rotate:90
+Слой 1
+bounds:648,1142,423,362
+offsets:0,0,539,362
+веко 2
+bounds:1853,1636,131,103
+offsets:0,4,136,107
+зрачок право
+bounds:50,1689,50,50
+ніс
+bounds:340,1516,122,249
+rotate:90
+ог/fog_shine
+bounds:1035,1506,132,132
+offsets:11,11,154,154
+ог/glow
+bounds:365,1227,281,280
+offsets:1,0,283,291
+око ліво
+bounds:2,1528,115,110
+око право.
+bounds:1539,1492,153,146
+
+4.2.png
+size:1884,1920
+filter:Linear,Linear
+pma:true
+scale:0.6
+ogon_bel/13
+bounds:2,1439,477,938
+offsets:423,234,1322,1500
+rotate:90
+ogon_bel/2
+bounds:942,1439,477,938
+offsets:423,234,1322,1500
+rotate:90
+ogon_bel/3
+bounds:2,960,477,938
+offsets:423,234,1322,1500
+rotate:90
+ogon_bel/4
+bounds:942,960,477,938
+offsets:423,234,1322,1500
+rotate:90
+ogon_bel/5
+bounds:2,481,477,938
+offsets:423,234,1322,1500
+rotate:90
+ogon_bel/6
+bounds:942,481,477,938
+offsets:423,234,1322,1500
+rotate:90
+ogon_bel/7
+bounds:2,2,477,938
+offsets:423,234,1322,1500
+rotate:90
+ogon_bel/8
+bounds:942,2,477,938
+offsets:423,234,1322,1500
+rotate:90
+
+4.3.png
+size:1924,944
+filter:Linear,Linear
+pma:true
+scale:0.6
+ogon_bel/9
+bounds:1444,2,477,938
+offsets:423,234,1322,1500
+тіло
+bounds:2,126,1440,814

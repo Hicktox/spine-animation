@@ -1,0 +1,82 @@
+1.png
+size:2032,1800
+filter:Linear,Linear
+pma:true
+scale:0.5
+1
+bounds:525,175,549,804
+rotate:90
+Layer 11
+bounds:1954,1508,56,74
+rotate:90
+Layer 111
+bounds:1063,48,125,282
+rotate:90
+Layer 12
+bounds:1347,1479,521,319
+Layer 13
+bounds:1063,2,44,49
+rotate:90
+Layer 132
+bounds:618,5,34,38
+rotate:90
+Layer 1334
+bounds:1036,1145,396,256
+rotate:90
+Layer 14
+bounds:1462,756,478,350
+Layer 15
+bounds:744,41,132,97
+rotate:90
+Layer 155
+bounds:265,33,138,232
+rotate:90
+Layer 16
+bounds:2,173,551,521
+rotate:90
+Layer 164
+bounds:843,47,126,218
+rotate:90
+Layer 17
+bounds:1870,1674,124,124
+Layer 18
+bounds:499,35,136,117
+rotate:90
+Layer 19
+bounds:618,41,124,132
+Layer 20
+bounds:1870,1566,106,112
+rotate:90
+Layer 21
+bounds:1294,1145,332,452
+rotate:90
+Layer 22
+bounds:1748,1108,204,369
+Layer 23
+bounds:1347,28,348,312
+rotate:90
+Layer 24
+bounds:1954,1158,348,63
+rotate:90
+Layer 25
+bounds:1661,427,327,335
+rotate:90
+Layer 26
+bounds:2,726,1032,1072
+Layer 26234
+bounds:1036,759,424,384
+Layer 27
+bounds:2,5,166,261
+rotate:90
+Layer 28
+bounds:1331,378,376,316
+rotate:90
+Layer 281
+bounds:1661,113,312,325
+rotate:90
+Layer 29
+bounds:1036,1620,178,295
+rotate:90
+Layer 30
+bounds:1036,1543,75,283
+rotate:90
