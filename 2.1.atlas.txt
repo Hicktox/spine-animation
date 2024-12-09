@@ -1,4 +1,4 @@
-2.2.png
+2.1.png
 size:1636,1540
 filter:Linear,Linear
 pma:true
